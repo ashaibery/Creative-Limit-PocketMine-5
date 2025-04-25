@@ -1,0 +1,11 @@
+---
+name: CreativeLimit
+version: 2.0.0
+main: ashaibery\CreativeLimit\Main
+api: 5.0.0
+src-namespace-prefix: ashaibery\CreativeLimit
+
+permissions: 
+   no.limit: 
+      default: op
+...
